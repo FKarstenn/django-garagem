@@ -2,7 +2,7 @@
 name = "django-garagem"
 version = "0.1.0"
 description = ""
-authors = ["Pedro Lucca Luciano <pedrolucca.luciano@gmail.com>"]
+authors = ["Pedro Lucca Lucian <pedrolucca.luciano@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
